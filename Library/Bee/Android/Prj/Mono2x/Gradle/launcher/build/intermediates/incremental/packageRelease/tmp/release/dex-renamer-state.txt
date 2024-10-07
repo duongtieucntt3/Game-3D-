@@ -1,0 +1,4 @@
+#Mon Oct 07 10:48:03 ICT 2024
+base.0=E\:\\Desktop\\unity3d\\Game3D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
